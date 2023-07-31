@@ -1,16 +1,43 @@
 ### Hi there 👋
 
-<!--
-**mlelabs/mlelabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineering leader that loves to drive innovation and deliver awesome experiences through applications of AI and other cutting edge techonlogies.
 
-Here are some ideas to get you started:
+<table width="100%">
+    <thead>
+        <tr>
+            <th valign="top" width="50%">🔭 Find me on...</th>
+            <th valign="top" width="50%">📌 Recent Articles</th>
+        </tr>
+    </thead>
+    <tbody>
+<tr>
+<td valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [linkedin](https://linkedin.com/in/kennymassie)
+* [kennymassie.com](https://kennymassie.com/)
+</td>
+            <td valign="top">
+            <!-- begin blog -->
+            Coming soon!
+            <!-- end blog -->
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+### 🌱 I’m currently learning ...
+
+- LLMs and their applications / accessibility
+- Exploring multimodal modeling techniques and applications in healthcare
+- Techniques for bootstrapping applications of AI from zero shot models and weak-supervision / self-supervised techniques
+
+### ⭐ Special Interests ...
+
+- AI in biology/healthcare for diagnosis, treatment, and drug discovery
+- Applications of AI in education for improving educational outcomes for students and teachers alike
+- Product and process improvement
+- Automation
+- Fostering growth of developer communities
+- Knowledge sharing, mentoring
+
